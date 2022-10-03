@@ -7,13 +7,20 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class SourcesViewController: UITableViewController {
+    // VARIABLES
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view.
+        // MAIN
+        
+        
     }
 
-
+    // FUNCTIONS
+    
+    
+    
 }
 
