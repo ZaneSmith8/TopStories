@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4433C3E728EB5C43005A29BA /* SwiftyJSON.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4433C3E628EB5C43005A29BA /* SwiftyJSON.swift */; };
 		4453E1B528E619630007E49E /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4453E1B428E619630007E49E /* AppDelegate.swift */; };
 		4453E1B728E619630007E49E /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4453E1B628E619630007E49E /* SceneDelegate.swift */; };
 		4453E1B928E619630007E49E /* SourcesViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4453E1B828E619630007E49E /* SourcesViewController.swift */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		4433C3E628EB5C43005A29BA /* SwiftyJSON.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SwiftyJSON.swift; sourceTree = "<group>"; };
 		4453E1B128E619630007E49E /* TopStories.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TopStories.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4453E1B428E619630007E49E /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4453E1B628E619630007E49E /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -106,6 +108,7 @@
 				4453E1BD28E619650007E49E /* Assets.xcassets */,
 				4453E1BF28E619650007E49E /* LaunchScreen.storyboard */,
 				4453E1C228E619650007E49E /* Info.plist */,
+				4433C3E628EB5C43005A29BA /* SwiftyJSON.swift */,
 			);
 			path = TopStories;
 			sourceTree = "<group>";
@@ -261,6 +264,7 @@
 				4453E1B928E619630007E49E /* SourcesViewController.swift in Sources */,
 				4453E1B528E619630007E49E /* AppDelegate.swift in Sources */,
 				4453E1B728E619630007E49E /* SceneDelegate.swift in Sources */,
+				4433C3E728EB5C43005A29BA /* SwiftyJSON.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
